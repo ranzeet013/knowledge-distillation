@@ -1,0 +1,4 @@
+Teacher test accuracy: 0.9925
+Regular student test accuracy: 0.9670
+Distilled student test accuracy: 0.8991
+Improvement from distillation: -0.0679
